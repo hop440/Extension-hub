@@ -1,6 +1,6 @@
 {
     "name": "Extension Hub",
-    "description": "",
+    "description": "Blocks to make centering text on the viewtext32 easier",
     "dependencies": {
         "core": "*",
         "pxt-kitronik-viewtext32": "github:kitronikltd/pxt-kitronik-viewtext32#v1.2.2"
