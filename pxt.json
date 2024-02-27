@@ -6,7 +6,6 @@
         "pxt-kitronik-viewtext32": "github:kitronikltd/pxt-kitronik-viewtext32#v1.2.2"
     },
     "files": [
-        "main.ts",
         "README.md",
         "custom.ts",
         "test.ts"
