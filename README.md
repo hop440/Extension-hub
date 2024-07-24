@@ -1,5 +1,13 @@
 
-> Open this page at [https://hop440.github.io/extension-hub/](https://hop440.github.io/extension-hub/)
+# Extension Hub
+
+Made for centering text on the [Kitronik VIEW text32](https://makecode.microbit.org/pkg/kitronikltd/pxt-kitronik-viewtext32)
+
+###### I made this because i had trouble with centering the text on the screen
+
+```blocks
+custom.Print()
+```
 
 ## Use as Extension
 
@@ -21,4 +29,5 @@ To edit this repository in MakeCode.
 #### Metadata (used for search, rendering)
 
 * for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+<script src="https://makecode.com/gh-pages-embed.js"></script>
+<script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>

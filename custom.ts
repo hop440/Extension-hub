@@ -11,7 +11,7 @@ enum Line {
 //% weight=100 color=#bb6622 icon=""
 namespace custom {
     /**
-     * Space calculater
+     * Calculates the space needed to center the text and prints it to the lcd
      */
     //% block
     export function Print(text: string, line: Line): void {
