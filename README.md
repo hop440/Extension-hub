@@ -5,6 +5,8 @@ Made for centering text on the [Kitronik VIEW text32](https://makecode.microbit.
 
 ###### I made this because i had trouble with centering the text on the screen
 
+## Blocks
+
 ```blocks
 custom.Print()
 ```
