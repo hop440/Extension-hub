@@ -8,7 +8,7 @@ enum Line {
 /**
  * Custom blocks
  */
-//% weight=100 color=#bb6622 icon=""
+//% weight=100 color=#bb6622 icon="\uf0e7"
 namespace custom {
     /**
      * Calculates the space needed to center the text and prints it to the lcd
