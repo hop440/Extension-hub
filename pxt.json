@@ -1,6 +1,6 @@
 {
     "name": "Extension Hub",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Blocks to make centering text on the viewtext32 easier",
     "dependencies": {
         "core": "*",
