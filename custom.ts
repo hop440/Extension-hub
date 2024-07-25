@@ -17,11 +17,11 @@ namespace custom {
     export function Print(text: string, line: Line): void {
         for (let index = 0; index < Math.trunc((16 - text.length) / 2); index++) {
             text = " " + text
-            len += 1
         }
         if (line == Line.Top) {
             Kitronik_VIEWTEXT32.displaySingleLineString(Kitronik_VIEWTEXT32.DisplayLine.Top, text)
-        } else {
+        }
+        else {
             Kitronik_VIEWTEXT32.displaySingleLineString(Kitronik_VIEWTEXT32.DisplayLine.Bottom, text)
         }
     }
